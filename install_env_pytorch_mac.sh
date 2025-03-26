@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🚀 Création de l'environnement PyTorch pour classification Fashion MNIST"
+echo "Création de l'environnement PyTorch pour classification Fashion MNIST"
 mkdir -p mon-projet-pytorch
 cd mon-projet-pytorch
 if ! command -v /opt/homebrew/bin/python3.10 &> /dev/null; then
@@ -10,5 +10,5 @@ fi
 source venv/bin/activate
 pip install --upgrade pip
 pip install torch torchvision matplotlib
-echo "✅ Installation terminée. Lance :"
+echo "Installation terminée. Lance :"
 echo "source venv/bin/activate && python fashion_classifier.py"
