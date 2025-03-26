@@ -16,7 +16,7 @@ Exécuter le projet en ligne
 
 Exécution locale
 
-### Pour macOS :
+Pour macOS :
 ```bash
 chmod +x install_env_pytorch_mac.sh
 ./install_env_pytorch_mac.sh
@@ -24,20 +24,20 @@ source venv/bin/activate
 python fashion_classifier.py
 ```
 
-### Pour Windows :
+Pour Windows :
 ```cmd
 install_env_pytorch_windows.bat
 venv\Scripts\activate
 python fashion_classifier.py
 ```
 
-## 🛠 Dépendances
+Dépendances
 
 - Python 3.10
 - torch
 - torchvision
 - matplotlib
 
-## Exemple de résultat
+Exemple de résultat
 
 Le script affiche 5 images de vêtements avec leur **classe réelle** et la **prédiction du modèle**.
