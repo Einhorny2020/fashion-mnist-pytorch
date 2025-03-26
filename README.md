@@ -1,4 +1,4 @@
-# Projet IA : Classification de vêtements avec PyTorch (Fashion MNIST)
+Projet IA : Classification de vêtements avec PyTorch (Fashion MNIST)
 
 Ce projet vous permet d'entraîner un réseau de neurones simple à reconnaître des vêtements à partir d’images en noir et blanc grâce au dataset **Fashion MNIST**.
 
@@ -10,11 +10,11 @@ Objectifs
 - Entraîner et tester le modèle
 - Visualiser les prédictions
 
-## Exécuter le projet en ligne
+Exécuter le projet en ligne
 
 [![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Einhorny2020/fashion-mnist-pytorch/blob/main/fashion_classifier.ipynb)
 
-## Exécution locale
+Exécution locale
 
 ### Pour macOS :
 ```bash
