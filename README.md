@@ -2,7 +2,7 @@
 
 Ce projet vous permet d'entraîner un réseau de neurones simple à reconnaître des vêtements à partir d’images en noir et blanc grâce au dataset **Fashion MNIST**.
 
-## Objectifs
+Objectifs
 
 - Comprendre la structure d’un projet PyTorch de classification image
 - Charger, normaliser et traiter des données visuelles
